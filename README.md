@@ -1,4 +1,4 @@
-# Awesome SLAM
+<h1 align="center" style="font-size:2.5em;">Awesome SLAM</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/awesome-LiDAR%20SLAM-blue?logo=github" />
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" />
@@ -221,9 +221,9 @@ A curated list of LiDAR-SLAM resources.
 
 ### Free Courses
 - [**SLAM Course Video Lectures by Cyrill Stachniss**](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN): A series of video lectures covering the fundamentals and advanced topics in SLAM.
-- [**Online Training – Mobile Robotics**](https://www.ipb.uni-bonn.de/online-training-robotics/index.html?utm_source=chatgpt.com): A comprehensive online course on mobile robotics, including SLAM techniquee, offered by the University of Bonn.
+- [**Online Training – Mobile Robotics**](https://www.ipb.uni-bonn.de/online-training-robotics/index.html): A comprehensive online course on mobile robotics, including SLAM techniques, offered by the University of Bonn.
 
-## Awespe SLAM Research Groups
+## Awesome SLAM Research Groups
 - [**Autonomous Systems Lab (ASL), ETH Zurich**](https://asl.ethz.ch/): A leading research group focusing on autonomous systems, including SLAM and robotics.
 - [**Robotics and Perception Group, University of Zurich**](https://rpg.ifi.uzh.ch/): A research group specializing in computer vision, SLAM, and robotics.
 - [**Computer Vision and Geometry Group, ETH Zurich**](https://cvg.ethz.ch/): A research group focusing on computer vision, 3D reconstruction, and SLAM.
