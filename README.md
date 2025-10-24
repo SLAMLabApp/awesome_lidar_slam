@@ -1,8 +1,6 @@
 # Awesome LiDAR SLAM
 
-<img src="https://img.shields.io/badge/awesome-LiDAR%20SLAM-blue?logo=github" />
-<img src="https://img.shields.io/badge/contributions-welcome-brightgreen" />
-<img src="https://img.shields.io/badge/license-MIT-lightgrey" />
+<img src="https://img.shields.io/badge/awesome-LiDAR%20SLAM-blue?logo=github" /> <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" /> <img src="https://img.shields.io/badge/license-MIT-lightgrey" />
 
 ## Contents
 
